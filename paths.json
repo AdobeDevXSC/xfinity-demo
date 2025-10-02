@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xfinity-xwalk/:/",
-    "/content/xfinity-xwalk/configuration:/.helix/config.json",
-    "/content/xfinity-xwalk/metadata:/metadata.json"
+    "/content/xfinity/:/",
+    "/content/xfinity/configuration:/.helix/config.json",
+    "/content/xfinity/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xfinity-xwalk/"
+    "/content/xfinity/"
   ]
 }
