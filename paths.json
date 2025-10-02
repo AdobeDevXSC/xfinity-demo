@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xfinity/:/",
-    "/content/xfinity/configuration:/.helix/config.json",
-    "/content/xfinity/metadata:/metadata.json"
+    "/content/xfinity-demo/:/",
+    "/content/xfinity-demo/configuration:/.helix/config.json",
+    "/content/xfinity-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xfinity/"
+    "/content/xfinity-demo/"
   ]
 }
